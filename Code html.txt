@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rithik V | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header>
+    <h1 id="typing-text"></h1>
+    <p>B.Sc CS (AI & DS) | Sri Vasavi College (2024 - 2027)</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p class="center-text">
+      I am learning HTML, CSS, and JavaScript. I provide basic web development services and create clean, modern, and professional web pages.
+    </p>
+  </section>
+
+  <section id="skills" class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Web Development</li>
+      <li>IT Fundamentals</li>
+    </ul>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <p class="center-text">Currently working on basic web projects. More updates coming soon!</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="contact-info">
+      <p><strong>Email:</strong> rkrithik9251@gmail.com</p>
+      <p><strong>Phone:</strong> 6382418831</p>
+      <p><strong>Location:</strong> Erode</p>
+      <a href="mailto:rkrithik9251@gmail.com" class="btn">Send Email</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rithik V | Portfolio</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
